@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977989200709",
+    "project_id": "onlineeducationsystem-4f2d5",
+    "storage_bucket": "onlineeducationsystem-4f2d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977989200709:android:c1558d28ad36fab4482c2c",
+        "android_client_info": {
+          "package_name": "com.example.education_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977989200709-em5j4bcnnhillr867oktcpcvjtajehpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADBifmlKLqUi-hv2mN6cPNfVXMF5iusBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977989200709-em5j4bcnnhillr867oktcpcvjtajehpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
